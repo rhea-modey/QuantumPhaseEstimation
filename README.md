@@ -8,8 +8,8 @@ This work was presented at the North Carolina Student Academy of Science and rec
 
 ## Repository contents
 
-- `quantum-phase-estimation-tsp-paper.pdf` â€” research paper / project write-up
+- `quantum-phase-estimation-tsp-paper.pdf` — research paper / project write-up
 
 ## Topics
 
-Quantum computing Â· Quantum phase estimation Â· Traveling Salesman Problem Â· Qiskit Â· Simulation
+Quantum computing · Quantum phase estimation · Traveling Salesman Problem · Qiskit · Simulation
